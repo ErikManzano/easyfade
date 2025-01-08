@@ -20,7 +20,7 @@ Una pequeña librería para agregar animaciones de desplazamiento a elementos en
 Copia el código de los archivos `easyfade.js` y `styles.css` en tu proyecto. Como puedes ver, en el js solo hay una función y el css lo puedes implementar facilmente en algun lado de tu css principal.
 
 ### 2. Importar la funcionalidad
-#### Uso con JavaScript:
+#### Uso con React:
 ```react
 import React, { useEffect } from "react";
 import { initializeFadeAnimations } from "./easyfade.js"; // Importa la función del archivo easyfade.js
