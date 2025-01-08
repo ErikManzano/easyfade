@@ -22,7 +22,7 @@ Copia el código de los archivos `fadeAnimations.js` y `styles.css` en tu proyec
 ### 2. Importar la funcionalidad
 #### Uso con JavaScript:
 ```javascript
-import { initializeFadeAnimations } from './fadeAnimations';
+import { initializeFadeAnimations } from './easyfades.js';
 initializeFadeAnimations();
 
 ---
