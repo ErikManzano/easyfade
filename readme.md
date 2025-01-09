@@ -2,8 +2,8 @@
 
 Una pequeña librería para agregar animaciones de desplazamiento a elementos en una página web. Al hacer scroll, los elementos con la clase `reveal` recibirán la clase `active` cuando entren al viewport, activando las animaciones de estilo.
 
-*Desarrollada por Erik Jonathan Manzano Morales
-*Diseñador UX/UI y Front End Developer
+Desarrollada por Erik Jonathan Manzano Morales.
+Diseñador UX/UI y Front End Developer.
 
 ## Características
 
