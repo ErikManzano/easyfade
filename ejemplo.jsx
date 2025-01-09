@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { initializeFadeAnimations } from "./fadeAnimations"; // Importa la función del archivo easyfade.js
+import { initializeFadeAnimations } from "./easyfade"; // Importa la función del archivo easyfade.js
 import "./styles.css"; // Importa las clases CSS
 
 const Ejemplo = () => {
